@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deeepthi
 - 👀 I’m interested in finding the solutions to real life problems using technology
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
